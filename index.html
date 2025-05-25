@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Toastify -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+    <!--mi estilo propio-->
+    <link rel="stylesheet" href="./css/style.css">
+    <!-- Remixicon-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/4.6.0/remixicon.min.css">
+    <!--JS-->
+    <script defer src="./js/main.js"></script>
+    <title>Inicio: TIENDA</title>
+</head>
+<body>
+    <header>
+        <div class="logo">
+        <i class="ri-shopping-cart-2-fill"></i>
+        </div>
+        <h1 class="logo">Market Orgánico</h1>
+        <nav>
+            <ul class="menu"> 
+                <li>
+                    <button id="Todos" class="boton-menu boton-categoria active"><i class="ri-home-smile-2-fill"></i>Todos</button>
+                </li>
+                <li>
+                    <button id="verdura" class="boton-menu boton-categoria"><i class="ri-checkbox-circle-line"></i> Verduras</button>
+                </li>
+                <li>
+                    <button id="fruta" class="boton-menu boton-categoria"><i class="ri-checkbox-circle-line"></i> Frutas </button>
+                </li>
+                <li>
+                    <a href="./html/carrito.html" class="boton-menu boton-carrito active"><i class="ri-shopping-cart-2-fill"></i>
+                        Carrito <span id="numerito" class="numerito"> 0 </span>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+    
+    <main> 
+        <h2>Bienvenidos a nuestra tienda orgánica "El Shalom"</h2>
+        <h3 id="titulo-principal">Todos los productos</h3>
+        <section id="contenedor-productos" class="cards"></section>
+    </main>
+    <!-- Sweetalert2-->
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <!-- Toastify -->
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+</body>
+</html>

@@ -1,0 +1,473 @@
+[ 
+    {
+        "id": 1,
+        "nombre": "Manzana Delicia",
+        "precio": 5.3,
+        "imagen": "../assets/Frutas/Manzana-delicia.jpg",
+        "categoria": {
+            "nombre": "Sección Frutas",
+            "id": "fruta"
+        }
+    },
+    {
+        "id": 2,
+        "nombre": "Aguaymanto",
+        "precio":  9,
+        "imagen": "../assets/Frutas/Aguaymanto.jpg",
+        "categoria": {
+            "nombre": "Sección Frutas",
+            "id": "fruta"
+        }
+    },
+    {
+        "id": 3,
+        "nombre": "Chirimoya",
+        "precio": 8.5,
+        "imagen": "../assets/Frutas/Chirimoya.jpg",
+        "categoria": {
+            "nombre": "Sección Frutas",
+            "id": "fruta"
+        }
+    },
+    {
+        "id": 4,
+        "nombre": "Granadilla",
+        "precio": 8.9,
+        "imagen": "../assets/Frutas/Granadilla.jpg",
+        "categoria": {
+            "nombre": "Sección Frutas",
+            "id": "fruta"
+        }
+    },
+    {
+        "id": 5,
+        "nombre": "Lima",
+        "precio": 9.5,
+        "imagen": "../assets/Frutas/Lima.jpg",
+        "categoria": {
+            "nombre": "Sección Frutas",
+            "id": "fruta"
+        }
+    },
+    {
+        "id": 6,
+        "nombre": "Mandarina sin pepa",
+        "precio": 6,
+        "imagen": "../assets/Frutas/Mandarina-sin-pepa.jpg",
+        "categoria": {
+            "nombre": "Sección Frutas",
+            "id": "fruta"
+        }
+    },
+    {
+        "id": 7,
+        "nombre": "Manzana de agua",
+        "precio": 4,
+        "imagen": "../assets/Frutas/Manzana-de-agua.jpg",
+        "categoria": {
+            "nombre": "Sección Frutas",
+            "id": "fruta"
+        }
+    },
+    {
+        "id": 8,
+        "nombre": "Maracuyá",
+        "precio": 5,
+        "imagen": "../assets/Frutas/Maracuyá.jpg",
+        "categoria": {
+            "nombre": "Sección Frutas",
+            "id": "fruta"
+        }
+    },
+    {
+        "id": 9,
+        "nombre": "Naranja Huando",
+        "precio": 8.9,
+        "imagen": "../assets/Frutas/Naranja.jpg",
+        "categoria": {
+            "nombre": "Sección Frutas",
+            "id": "fruta"
+        }
+    },
+    {
+        "id": 10, 
+        "nombre": "Papaya",
+        "precio": 5.9,
+        "imagen": "../assets/Frutas/Papaya.jpg",
+        "categoria": {
+            "nombre": "Sección Frutas",
+            "id": "fruta"
+        }
+    },
+    {
+        "id": 11,
+        "nombre": "Pera", 
+        "precio": 10,
+        "imagen": "../assets/Frutas/Pera.jpg",
+        "categoria": {
+            "nombre": "Sección Frutas",
+            "id": "fruta"
+        }
+    },
+    {
+        "id": 12, 
+        "nombre": "Piña Golden",
+        "precio": 5.5,
+        "imagen": "../assets/Frutas/pina-golden.jpg",
+        "categoria": {
+            "nombre": "Sección Frutas",
+            "id": "fruta"
+        }
+    },
+    {
+        "id": 13,
+        "nombre": "Plátano Bellaco",
+        "precio": 7.5,
+        "imagen": "../assets/Frutas/Plátano-bellaco.jpg",
+        "categoria": {
+            "nombre": "Sección Frutas",
+            "id": "fruta"
+        }
+    },
+    {
+        "id": 14,
+        "nombre": "Plátano de la isla",
+        "precio": 6,
+        "imagen": "../assets/Frutas/Plátano-isla.jpg",
+        "categoria": {
+            "nombre": "Sección Frutas",
+            "id": "fruta"
+        }
+    },
+    {
+        "id": 15,
+        "nombre": "Plátano de seda",
+        "precio": 4,
+        "imagen": "../assets/Frutas/Plátano-seda.jpg",
+        "categoria": {
+            "nombre": "Sección Frutas",
+            "id": "fruta"
+        }
+    },
+    {
+        "id": 16,
+        "nombre": "Ajo",
+        "precio": 2.5,
+        "imagen": "../assets/Verduras/Ajo.jpg",
+        "categoria": {
+            "nombre": "Sección Verduras",
+            "id": "verdura"
+        }
+    },
+        {
+        "id": 17,
+        "nombre": "Albahaca",
+        "precio": 3,
+        "imagen": "../assets/Verduras/Albahaca.jpg",
+        "categoria": {
+            "nombre": "Sección Verduras",
+            "id": "verdura"
+        }
+    },
+        {
+        "id": 18,
+        "nombre": "Alverja",
+        "precio": 12.1,
+        "imagen": "../assets/Verduras/Alverja.jpg",
+        "categoria": {
+            "nombre": "Sección Verduras",
+            "id": "verdura"
+        }
+    },
+        {
+        "id": 19,
+        "nombre": "Berenjena",
+        "precio": 3.5,
+        "imagen": "../assets/Verduras/Berenjena.jpg",
+        "categoria": {
+            "nombre": "Sección Verduras",
+            "id": "verdura"
+        }
+    },
+        {
+        "id": 20,
+        "nombre": "Beterraga",
+        "precio": 7.1,
+        "imagen": "../assets/Verduras/Beterraga.jpg",
+        "categoria": {
+            "nombre": "Sección Verduras",
+            "id": "verdura"
+        }
+    },
+        {
+        "id": 21,
+        "nombre": "Brócoli",
+        "precio": 7.5,
+        "imagen": "../assets/Verduras/Brocoli.jpg",
+        "categoria": {
+            "nombre": "Sección Verduras",
+            "id": "verdura"
+        }
+    },
+        {
+        "id": 22,
+        "nombre": "Camote amarillo",
+        "precio": 6.9,
+        "imagen": "../assets/Verduras/Camote-amarillo.jpg",
+        "categoria": {
+            "nombre": "Sección Verduras",
+            "id": "verdura"
+        }
+    },
+        {
+        "id": 23,
+        "nombre": "Camote morado",
+        "precio": 6.4,
+        "imagen": "../assets/Verduras/Camote-morado.jpg",
+        "categoria": {
+            "nombre": "Sección Verduras",
+            "id": "verdura"
+        }
+    },
+        {
+        "id": 24,
+        "nombre": "Cebolla blanca",
+        "precio": 7.6,
+        "imagen": "../assets/Verduras/Cebolla-blanca.jpg",
+        "categoria": {
+            "nombre": "Sección Verduras",
+            "id": "verdura"
+        }
+    },
+        {
+        "id": 25,
+        "nombre": "Cebolla roja",
+        "precio": 7,
+        "imagen": "../assets/Verduras/Cebolla-roja.jpg",
+        "categoria": {
+            "nombre": "Sección Verduras",
+            "id": "verdura"
+        }
+    },
+        {
+        "id": 26,
+        "nombre": "Choclo",
+        "precio": 3.3,
+        "imagen": "../assets/Verduras/Choclo.jpg",
+        "categoria": {
+            "nombre": "Sección Verduras",
+            "id": "verdura"
+        }
+    },
+        {
+        "id": 27,
+        "nombre": "Culantro",
+        "precio": 3.9,
+        "imagen": "../assets/Verduras/Culantro.jpg",
+        "categoria": {
+            "nombre": "Sección Verduras",
+            "id": "verdura"
+        }
+    },
+        {
+        "id": 28,
+        "nombre": "Espinaca",
+        "precio": 3.5,
+        "imagen": "../assets/Verduras/Espinaca.jpg",
+        "categoria": {
+            "nombre": "Sección Verduras",
+            "id": "verdura"
+        }
+    },
+        {
+        "id": 29,
+        "nombre": "Habas",
+        "precio": 4,
+        "imagen": "../assets/Verduras/Habas.jpg",
+        "categoria": {
+            "nombre": "Sección Verduras",
+            "id": "verdura"
+        }
+    },
+        {
+        "id": 30,
+        "nombre": "Kión",
+        "precio": 12,
+        "imagen": "../assets/Verduras/Kión.jpg",
+        "categoria": {
+            "nombre": "Sección Verduras",
+            "id": "verdura"
+        }
+    },
+        {
+        "id": 31,
+        "nombre": "Limón",
+        "precio": 10,
+        "imagen": "../assets/Verduras/Limón.jpg",
+        "categoria": {
+            "nombre": "Sección Verduras",
+            "id": "verdura"
+        }
+    },
+        {
+        "id": 32,
+        "nombre": "Nabo",
+        "precio": 4.3,
+        "imagen": "../assets/Verduras/Nabo.jpg",
+        "categoria": {
+            "nombre": "Sección Verduras",
+            "id": "verdura"
+        }
+    },
+        {
+        "id": 33,
+        "nombre": "Palta fuerte",
+        "precio": 18.4,
+        "imagen": "../assets/Verduras/Palta-fuerte.jpg",
+        "categoria": {
+            "nombre": "Sección Verduras",
+            "id": "verdura"
+        }
+    },
+        {
+        "id": 34,
+        "nombre": "Palta Hass",
+        "precio": 15,
+        "imagen": "../assets/Verduras/Palta-Hass.jpg",
+        "categoria": {
+            "nombre": "Sección Verduras",
+            "id": "verdura"
+        }
+    },
+        {
+        "id": 35,
+        "nombre": "Papa amarilla",
+        "precio": 7.5,
+        "imagen": "../assets/Verduras/Papa-amarilla.jpg",
+        "categoria": {
+            "nombre": "Sección Verduras",
+            "id": "verdura"
+        }
+    },
+        {
+        "id": 36,
+        "nombre": "Papa blanca",
+        "precio": 4.5,
+        "imagen": "../assets/Verduras/Papa-blanca.jpg",
+        "categoria": {
+            "nombre": "Sección Verduras",
+            "id": "verdura"
+        }
+    },
+        {
+        "id": 37,
+        "nombre": "Papa negra",
+        "precio": 4,
+        "imagen": "../assets/Verduras/Papa-negra.jpg",
+        "categoria": {
+            "nombre": "Sección Verduras",
+            "id": "verdura"
+        }
+    },
+        {
+        "id": 38,
+        "nombre": "Pepino",
+        "precio": 2.6,
+        "imagen": "../assets/Verduras/Pepino.jpg",
+        "categoria": {
+            "nombre": "Sección Verduras",
+            "id": "verdura"
+        }
+    },
+        {
+        "id": 39,
+        "nombre": "Perejil",
+        "precio": 3.9,
+        "imagen": "../assets/Verduras/Perejil.jpg",
+        "categoria": {
+            "nombre": "Sección Verduras",
+            "id": "verdura"
+        }
+    },
+        {
+        "id": 40,
+        "nombre": "Rabanito",
+        "precio": 4.7,
+        "imagen": "../assets/Verduras/Rabanito.jpg",
+        "categoria": {
+            "nombre": "Sección Verduras",
+            "id": "verdura"
+        }
+    },
+        {
+        "id": 41,
+        "nombre": "Rocoto",
+        "precio": 11.4,
+        "imagen": "../assets/Verduras/Rocoto.jpg",
+        "categoria": {
+            "nombre": "Sección Verduras",
+            "id": "verdura"
+        }
+    },
+        {
+        "id": 42,
+        "nombre": "Tomate",
+        "precio": 7.9,
+        "imagen": "../assets/Verduras/Tomate.jpg",
+        "categoria": {
+            "nombre": "Sección Verduras",
+            "id": "verdura"
+        }
+    },
+        {
+        "id": 43,
+        "nombre": "Vainita",
+        "precio": 9.3,
+        "imagen": "../assets/Verduras/Vainita.jpg",
+        "categoria": {
+            "nombre": "Sección Verduras",
+            "id": "verdura"
+        }
+    },
+        {
+        "id": 44,
+        "nombre": "Yuca",
+        "precio": 5.6,
+        "imagen": "../assets/Verduras/Yuca.jpg",
+        "categoria": {
+            "nombre": "Sección Verduras",
+            "id": "verdura"
+        }
+    },
+        {
+        "id": 45,
+        "nombre": "Zanahoria",
+        "precio": 5.7,
+        "imagen": "../assets/Verduras/Zanahoria.jpg",
+        "categoria": {
+            "nombre": "Sección Verduras",
+            "id": "verdura"
+        }
+    },
+        {
+        "id": 46,
+        "nombre": "Zapallito italiano",
+        "precio": 5,
+        "imagen": "../assets/Verduras/Zapallito-italiano.jpg",
+        "categoria": {
+            "nombre": "Sección Verduras",
+            "id": "verdura"
+        }
+    },
+    
+    {
+        "id": 47,
+        "nombre": "Zapallo macre",
+        "precio": 6.4,
+        "imagen": "../assets/Verduras/Zapallo-macre.jpg",
+        "categoria": {
+            "nombre": "Sección Verduras",
+            "id": "verdura"
+        }
+    }
+]
